@@ -1,3 +1,2 @@
-# my first html project!
-
-calculator project
+# calculator project
+my first html project
